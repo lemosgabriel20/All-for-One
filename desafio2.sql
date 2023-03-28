@@ -1,1 +1,1 @@
-SELECT pro FROM products;
+SELECT * FROM products;
